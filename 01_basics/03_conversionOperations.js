@@ -49,3 +49,6 @@ let num = 33
 let strNum = String(num)
 console.log(strNum)
 console.log(typeof strNum)
+
+// *************** Operations ***************
+
